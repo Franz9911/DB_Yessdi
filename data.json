@@ -1,0 +1,339 @@
+{
+  "users": [
+    {
+      "iduser": 1,
+      "nombre": "tilin",
+      "apellidop": "delman",
+      "apellidom": "x",
+      "contrasenha": "1234"
+    },
+    {
+      "iduser": 2,
+      "nombre": "pancho",
+      "apellidop": "loco",
+      "apellidom": "x",
+      "contrasenha": "2345"
+    },
+    {
+      "iduser": 3,
+      "nombre": "hans",
+      "apellidop": "loco2",
+      "apellidom": "x",
+      "contrasenha": "3456"
+    },
+    {
+      "iduser": 4,
+      "nombre": "panchoo",
+      "apellidop": "tanani",
+      "apellidom": "quispe",
+      "contrasenha": "1222"
+    },
+    {
+      "iduser": 5,
+      "nombre": "facundo",
+      "apellidop": "cabral",
+      "apellidom": "sape",
+      "contrasenha": "3322"
+    },
+    {
+      "iduser": 7,
+      "nombre": "gjj",
+      "apellidop": "vbb",
+      "apellidom": "vol",
+      "contrasenha": "fvjj"
+    },
+    {
+      "iduser": 8,
+      "nombre": "loc",
+      "apellidop": "ass",
+      "apellidom": "casj",
+      "contrasenha": "asdf"
+    },
+    {
+      "iduser": 9,
+      "nombre": "fgt",
+      "apellidop": "wrr",
+      "apellidom": "sxfg",
+      "contrasenha": "dxcg"
+    },
+    {
+      "iduser": 9,
+      "nombre": "fgg",
+      "apellidop": "vnjj",
+      "apellidom": "cvb",
+      "contrasenha": "fhhy"
+    },
+    {
+      "iduser": 10,
+      "nombre": "fgh",
+      "apellidop": "hbj",
+      "apellidom": "ghb",
+      "contrasenha": "fhj"
+    },
+    {
+      "iduser": 11,
+      "nombre": "ffg",
+      "apellidop": "fggg",
+      "apellidom": "fgg",
+      "contrasenha": "hjjj"
+    },
+    {
+      "iduser": 12,
+      "nombre": "franz",
+      "apellidop": "mamani",
+      "apellidom": "quispe",
+      "contrasenha": "fra"
+    },
+    {
+      "iduser": 13,
+      "nombre": "pato",
+      "apellidop": "cvb",
+      "apellidom": "fgh",
+      "contrasenha": "432"
+    }
+  ],
+  "libros": [
+    {
+      "idLibro": "1",
+      "titulo": "Matar un ruiseñor",
+      "resumen": "habia una vez 1",
+      "estado": "disponible",
+      "categoria": "novela",
+      "costo": "15",
+      "autor": "Harper Lee",
+      "imagenL": "https://media.revistaad.es/photos/60c227359ae22619e08751b2/master/w_1600%2Cc_limit/247747.jpg"
+    },
+    {
+      "idLibro": "2",
+      "titulo": "El hechizo del bosque",
+      "resumen": "habia una vez 2",
+      "estado": "disponible",
+      "categoria": "misterio",
+      "costo": "12",
+      "autor": "Silvia de holanda",
+      "imagenL": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/portada-de-libro-kindle-novela-de-misterio-design-template-80ca815d39ea5f2307ad71c9ff5f4cf2_screen.jpg?ts=1637014867"
+    },
+    {
+      "idLibro": "3",
+      "titulo": "Orgullo y Prejuicio",
+      "resumen": "habia una vez 3",
+      "estado": "disponible",
+      "categoria": "misterio",
+      "costo": "12",
+      "autor": "david grold",
+      "imagenL": "https://cdn.culturagenial.com/es/imagenes/orgullo-prejuicio-portada-cke.jpg"
+    },
+    {
+      "idLibro": "4",
+      "titulo": "los Juicios de Salhen",
+      "resumen": "habia una vez 3",
+      "estado": "disponible",
+      "categoria": "terror",
+      "costo": "12",
+      "autor": "Andy Carrol",
+      "imagenL": "https://cordexizdesign.es/wp-content/uploads/2020/10/brujas_portada_predisenada.jpg"
+    },
+    {
+      "idLibro": "5",
+      "titulo": "Corralain",
+      "resumen": "habia una vez 3",
+      "estado": "disponible",
+      "categoria": "misterio",
+      "costo": "12",
+      "autor": "niel gain",
+      "imagenL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBznahaz8UOXhgLaQ3jePQsDfh78-wD3MFOJN9jUy-kIPryHzskQWhfAI5LpUK47bDZSEgoKygxp_jNSYtt9iPTKAaVVpWb2PrMPNvpabqYLc_9c6_Bq4-iCUalXTJemdocSQ1xrTy8L3z/s1600/portada-libro-coraline-neil-gaiman.jpg"
+    },
+    {
+      "idLibro": "6",
+      "titulo": "Todas las hadas del reino",
+      "resumen": "habia una vez 4",
+      "estado": "disponible",
+      "categoria": "fantacia",
+      "costo": "12",
+      "autor": "Laura Gallego",
+      "imagenL": "https://3.bp.blogspot.com/-fkN6HkQYIAk/VZF2nuWfZEI/AAAAAAAAEus/qQdemPwj0nU/s1600/todas-las-hadas-del-reino_opt.jpg"
+    },
+    {
+      "idLibro": "7",
+      "titulo": "Frankenstein",
+      "resumen": "habia una vez 5",
+      "estado": "disponible",
+      "categoria": "terror",
+      "costo": "12",
+      "autor": "Andy Carrol",
+      "imagenL": "https://www.adazing.com/wp-content/uploads/2012/08/frankenstein.jpg"
+    },
+    {
+      "idLibro": "8",
+      "titulo": "Codigo de ladrones",
+      "resumen": "habia una vez 3",
+      "estado": "disponible",
+      "categoria": "terror",
+      "costo": "12",
+      "autor": "Andy Carrol",
+      "imagenL": "https://i.pinimg.com/736x/27/3c/75/273c754bf2a404cbd3f8e063faa9a37e.jpg"
+    }
+  ],
+  "reservas": [
+    {
+      "idReserva": 1,
+      "idLibro": "1",
+      "idUsuario": "1",
+      "fechaReserva": "2024-01-01",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": "2024-01-05"
+    },
+    {
+      "idReserva": 2,
+      "idLibro": "3",
+      "idUsuario": "1",
+      "fechaReserva": "2024-01-01",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": "2024-01-05"
+    },
+    {
+      "idReserva": 3,
+      "idLibro": "2",
+      "idUsuario": "1",
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1"
+    },
+    {
+      "idReserva": 4,
+      "idLibro": "1",
+      "idUsuario": "1",
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1"
+    },
+    {
+      "idReserva": 5,
+      "idLibro": 2,
+      "idUsuario": 1,
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 6,
+      "idLibro": 2,
+      "idUsuario": 1,
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 7,
+      "idLibro": 1,
+      "idUsuario": 1,
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 8,
+      "idLibro": 2,
+      "idUsuario": 1,
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 9,
+      "idLibro": 2,
+      "idUsuario": 1,
+      "fechaReserva": "12-12-2022",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 10,
+      "idLibro": 2,
+      "idUsuario": 5,
+      "fechaReserva": "23/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 11,
+      "idLibro": 1,
+      "idUsuario": 5,
+      "fechaReserva": "23/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 12,
+      "idLibro": 1,
+      "idUsuario": 12,
+      "fechaReserva": "23/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 13,
+      "idLibro": 1,
+      "idUsuario": 0,
+      "fechaReserva": "23/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 14,
+      "idLibro": 1,
+      "idUsuario": 12,
+      "fechaReserva": "23/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 15,
+      "idLibro": 1,
+      "idUsuario": 13,
+      "fechaReserva": "24/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 16,
+      "idLibro": 2,
+      "idUsuario": 0,
+      "fechaReserva": "24/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 17,
+      "idLibro": 1,
+      "idUsuario": 0,
+      "fechaReserva": "24/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    },
+    {
+      "idReserva": 18,
+      "idLibro": 3,
+      "idUsuario": 0,
+      "fechaReserva": "24/06/2024",
+      "estado": "pendiente",
+      "unidades": "1",
+      "fechaResecion": ""
+    }
+  ]
+}
